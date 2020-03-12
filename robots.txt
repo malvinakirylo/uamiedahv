@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahmaefaish.gdaq.me/sitemap.xml
